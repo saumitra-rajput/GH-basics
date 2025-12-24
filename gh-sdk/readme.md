@@ -82,3 +82,18 @@ terraform version
 
 
 ## It worked 
+
+### command to initiate the terraform
+```
+terraform init
+terraform plan
+terraform apply
+
+git status
+git add main.tf
+git commit -m"Initiated Terraform"
+git push
+
+terraform destroy(optional to delete the change)
+```
+
